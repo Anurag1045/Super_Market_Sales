@@ -2,7 +2,7 @@
 Data Science project on Super Market Sales Analysis
 
 
-**What will you discover from this analysis?**
+**What will you discover from this analysis?**<br />
 1.Relation of customers with SuperMarket.<br />
 2.Payment methods used in supermarket.<br />
 3.Products relation with quantities.<br />
